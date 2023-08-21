@@ -1,7 +1,16 @@
 
-
+#coinSection {
+    border: 2px dotted rgb(53, 182, 71);
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
 
 #headsPic, #tailsPic {
     border: 1px solid red;
-    width: 120px;
+    width: 177px;
+}
+
+#bttn {
+    text-align: center;
 }
