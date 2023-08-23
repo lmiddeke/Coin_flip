@@ -1,7 +1,6 @@
-document.querySelector('#bttn').addEventListener('click', flipIt)
-
+document.querySelector('#coin').addEventListener('click', flipIt)
 
 
 function flipIt(){
-    
+    coin.classList.toggle("flipper")
 }
