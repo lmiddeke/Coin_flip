@@ -41,10 +41,9 @@
 }
 
 #headsPic, #tailsPic {
-    border: 1px solid red;
     width: 177px;
 }
 
 .flipper{
     transform: rotateY(180deg);
-  }
+}
